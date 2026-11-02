@@ -6,13 +6,14 @@ const skills = [
 
   "TypeScript",
   "HTML5",
-  "CSS3",
+  "CSS",
   "Responsive Design",
   "GitHub",
   "Postman",
   "Chrome DevTools",
   "MySQL",
-  "JMeter",
+  "JMeter Performance Testing",
+  "Manual Testing"
 ];
 
 const projects = [
@@ -191,9 +192,14 @@ function App() {
               </p>
 
               <p className="indent2">
-                <span className="green">"JavaScript"</span>
+                <span className="green">"JavaScript(basics)"</span>
               </p>
-
+               <p className="indent2">
+                <span className="green">"HTML"</span>
+              </p>
+               <p className="indent2">
+                <span className="green">"CSS"</span>
+              </p>
               <p className="indent">]</p>
 
               <p>{"}"}</p>
